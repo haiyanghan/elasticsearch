@@ -9,6 +9,7 @@ build-idea/
 out/
 
 # include shared intellij config
+!.idea/bookmarks.json
 !.idea/eclipseCodeFormatter.xml
 !.idea/externalDependencies.xml
 !.idea/inspectionProfiles/Project_Default.xml
