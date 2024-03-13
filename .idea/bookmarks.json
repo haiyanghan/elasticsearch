@@ -3,7 +3,7 @@
     "elementType": "BOOKMARK",
     "name": "解析query dsl",
     "index": 0,
-    "fileDescriptor": "C:/Users/hanhaiyang/IdeaProjects/elasticsearch/server/src/main/java/org/elasticsearch/rest/action/search/RestSearchAction.java",
+    "fileDescriptor": "$/server/src/main/java/org/elasticsearch/rest/action/search/RestSearchAction.java",
     "linenumber": 199,
     "group": "elasticsearch",
     "bookmarkType": "DEFAULT"
@@ -12,6 +12,6 @@
     "elementType": "GROUP",
     "name": "elasticsearch",
     "index": 0,
-    "linenumber": -1
+    "linenumber": 0
   }
 ]
