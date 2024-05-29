@@ -1,74 +1,44 @@
-[
-  {
-    "elementType": "BOOKMARK",
-    "name": "new SearchModule",
-    "index": 0,
-    "fileDescriptor": "$/server/src/main/java/org/elasticsearch/search/SearchModule.java",
-    "linenumber": 302,
-    "group": "elasticsearch",
-    "bookmarkType": "DEFAULT"
-  },
-  {
-    "elementType": "BOOKMARK",
-    "name": "registerQueryParser",
-    "index": 0,
-    "fileDescriptor": "$/server/src/main/java/org/elasticsearch/search/SearchModule.java",
-    "linenumber": 1041,
-    "group": "elasticsearch",
-    "bookmarkType": "DEFAULT"
-  },
-  {
-    "elementType": "BOOKMARK",
-    "name": "parseDSL",
-    "index": 0,
-    "fileDescriptor": "$/server/src/main/java/org/elasticsearch/rest/action/search/RestSearchAction.java",
-    "linenumber": 177,
-    "group": "request",
-    "bookmarkType": "DEFAULT"
-  },
-  {
-    "elementType": "BOOKMARK",
-    "name": "doParseDSL",
-    "index": 0,
-    "fileDescriptor": "$/server/src/main/java/org/elasticsearch/rest/action/search/RestSearchAction.java",
-    "linenumber": 199,
-    "group": "request",
-    "bookmarkType": "DEFAULT"
-  },
-  {
-    "elementType": "BOOKMARK",
-    "name": "doParseDSL-\u003equery",
-    "index": 0,
-    "fileDescriptor": "$/server/src/main/java/org/elasticsearch/search/builder/SearchSourceBuilder.java",
-    "linenumber": 1358,
-    "group": "request",
-    "bookmarkType": "DEFAULT"
-  },
-  {
-    "elementType": "BOOKMARK",
-    "name": "rest-\u003edoc",
-    "index": 0,
-    "fileDescriptor": "$/server/src/main/java/org/elasticsearch/rest/action/document/RestIndexAction.java",
-    "linenumber": 34,
-    "group": "rest-\u003e_doc",
-    "bookmarkType": "DEFAULT"
-  },
-  {
-    "elementType": "GROUP",
-    "name": "elasticsearch",
-    "index": 0,
-    "linenumber": 0
-  },
-  {
-    "elementType": "GROUP",
-    "name": "request",
-    "index": 0,
-    "linenumber": 0
-  },
-  {
-    "elementType": "GROUP",
-    "name": "rest-\u003e_doc",
-    "index": 0,
-    "linenumber": 0
-  }
-]
+{
+  "rest-\u003e_doc": [
+    {
+      "fileDescriptor": "$/server/src/main/java/org/elasticsearch/rest/action/document/RestIndexAction.java",
+      "linenumber": 34,
+      "name": "rest-\u003edoc",
+      "bookmarkType": "DEFAULT"
+    }
+  ],
+  "request": [
+    {
+      "fileDescriptor": "$/server/src/main/java/org/elasticsearch/rest/action/search/RestSearchAction.java",
+      "linenumber": 199,
+      "name": "doParseDSL",
+      "bookmarkType": "DEFAULT"
+    },
+    {
+      "fileDescriptor": "$/server/src/main/java/org/elasticsearch/rest/action/search/RestSearchAction.java",
+      "linenumber": 177,
+      "name": "parseDSL",
+      "bookmarkType": "DEFAULT"
+    },
+    {
+      "fileDescriptor": "$/server/src/main/java/org/elasticsearch/search/builder/SearchSourceBuilder.java",
+      "linenumber": 1358,
+      "name": "doParseDSL-\u003equery",
+      "bookmarkType": "DEFAULT"
+    }
+  ],
+  "elasticsearch": [
+    {
+      "fileDescriptor": "$/server/src/main/java/org/elasticsearch/search/SearchModule.java",
+      "linenumber": 302,
+      "name": "new SearchModule",
+      "bookmarkType": "DEFAULT"
+    },
+    {
+      "fileDescriptor": "$/server/src/main/java/org/elasticsearch/search/SearchModule.java",
+      "linenumber": 1041,
+      "name": "registerQueryParser",
+      "bookmarkType": "DEFAULT"
+    }
+  ]
+}
